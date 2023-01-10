@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Bonjour
 
-rosemberg 
+Mon nom est rosemberg 
+
